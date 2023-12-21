@@ -4,3 +4,4 @@ conflict at master
 
 conflict1
 
+new update
